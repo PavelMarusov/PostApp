@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PostApp</string>
+    <string name="add_comm">Add comm</string>
+    <string name="post">Post :</string>
+    <string name="comments">Comments :</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="email">Email :</string>
+    <string name="name">Name :</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="comment">Comment :</string>
+</resources>
